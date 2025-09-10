@@ -1,4 +1,6 @@
-# Microsoft: Classifying Cybersecurity Incidents with Machine Learning  
+# Microsoft: Classifying Cybersecurity Incidents with Machine Learning 
+
+![](https://github.com/BERLINSAMUELRAJ/CYBERSECURITY_PROJECT/blob/main/Top-5-Applications-of-Machine-Learning-in-Cyber-Security1.jpg)
 
 ## 📌 Project Overview  
 This project focuses on building a machine learning model to **predict the triage grade of cybersecurity incidents** using Microsoft’s GUIDE dataset. The triage grades include:  
@@ -21,8 +23,9 @@ The goal is to enhance the efficiency of **Security Operation Centers (SOCs)** b
 ---
 
 ## 🌐 Domain  
-**Cybersecurity and Machine Learning**  
+**Cybersecurity and Machine Learning** 
 
+![](https://github.com/BERLINSAMUELRAJ/CYBERSECURITY_PROJECT/blob/main/175948891_m_normal_none%20(1).jpg)
 ---
 
 ## 📝 Problem Statement  
