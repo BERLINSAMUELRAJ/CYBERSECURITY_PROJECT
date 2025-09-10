@@ -84,6 +84,8 @@ The solution should:
 - Report **Final Macro-F1, Precision, Recall**.  
 - Compare results with baseline and validation performance.
 
+---
+
 ## 📊 Results & Model Analysis
 
 ### 1️⃣ Overall Performance
@@ -125,6 +127,7 @@ The solution should:
 - **LightGBM (0.95 F1):** Best performer. Gradient boosting handles class imbalance and complex interactions well.  
 - **XGBoost (0.93 F1):** Slightly worse than LightGBM, but still very strong.  
 
+---
 
 ### 8. Documentation & Reporting  
 - Document entire process (data prep → training → evaluation).  
