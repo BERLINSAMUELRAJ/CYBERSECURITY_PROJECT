@@ -1,4 +1,5 @@
-# SOC Incident Classification with LightGBM
+# Microsoft : Classifying Cybersecurity Incidents 
+with Machine Learning 
 
 ## 📑 Project Documentation & Reporting  
 
